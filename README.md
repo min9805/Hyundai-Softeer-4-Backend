@@ -12,6 +12,9 @@
 # 🌐 배포 URL
 [Service URL](https://front.softeer1.site/)
 
+# 발표 자료 
+[발표자료](https://github.com/min9805/Hyundai-Softeer-4-Backend/blob/dev/%EB%94%B8%EA%B8%B0%ED%83%95%ED%9B%84%EB%A3%A8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+
 # ✨ 기능 소개
 [기능 및 시연 영상](https://www.youtube.com/watch?v=TuaAZ3bZ9uA)
 
