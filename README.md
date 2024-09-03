@@ -17,8 +17,9 @@
 
 # Git-Repositroy
 
-FE - https://github.com/softeerbootcamp4th/Team1-Strawberry-FE
-BE - https://github.com/softeerbootcamp4th/Team1-Strawberry-BE
+|FE|BE|
+|--|--|
+|https://github.com/softeerbootcamp4th/Team1-Strawberry-FE|https://github.com/softeerbootcamp4th/Team1-Strawberry-BE|
 
 ## 1. 랜딩 페이지
 
