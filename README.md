@@ -15,6 +15,11 @@
 # ✨ 기능 소개
 [기능 및 시연 영상](https://www.youtube.com/watch?v=TuaAZ3bZ9uA)
 
+# Git-Repositroy
+
+FE - https://github.com/softeerbootcamp4th/Team1-Strawberry-FE
+BE - https://github.com/softeerbootcamp4th/Team1-Strawberry-BE
+
 ## 1. 랜딩 페이지
 
 -   신차에 대한 간략한 소개와 진행하는 이벤트의 설명을 확인할 수 있습니다.
