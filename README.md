@@ -33,32 +33,6 @@
 # ✨ 기능 소개
 [기능 및 시연 영상](https://www.youtube.com/watch?v=TuaAZ3bZ9uA)
 
-## 1. 선착순 퀴즈 이벤트 페이지
-
--   선착순으로 퀴즈를 맞추는 이벤트를 진행하는 페이지입니다.
--   소개 페이지와 진행 페이지로 나뉩니다.
--   이벤트 진행 페이지에서 퀴즈를 진행한 후 바로 결과를 확인할 수 있습니다.
-
-<img width="1712" alt="image" src="https://github.com/user-attachments/assets/42565089-8d2a-472e-9190-828fd3ba7f0b">
-<img width="1714" alt="image" src="https://github.com/user-attachments/assets/46e3591b-0cf8-4de9-af5b-c36d21cf0b2b">
-<img width="1712" alt="image" src="https://github.com/user-attachments/assets/055d2599-1f8b-4b98-a7e9-48abb92aa141">
-<img width="1715" alt="image" src="https://github.com/user-attachments/assets/2a18e3b4-18e1-4843-97a7-ea18b9048425">
-
-## 2. 드로잉 이벤트 페이지
-
--   신차의 주요 특징을 드로잉 게임을 통해 고객에게 알릴 수 있는 페이지입니다.
--   소개 페이지, 진행 페이지, 결과 페이지로 나뉩니다.
--   소개 페이지에서 점수 랭킹과 자신의 점수를 확인할 수 있습니다.
--   Canvas API를 사용하여 3단계의 드로잉 게임을 구현할 예정입니다.
--   사용자는 게임 진행 후 결과를 확인하고 이를 링크 공유할 수 있습니다.
-
-<img width="1713" alt="image" src="https://github.com/user-attachments/assets/eff1a4b6-0500-45fe-99a1-8a35435fb273">
-<img width="1720" alt="image" src="https://github.com/user-attachments/assets/e8a6550c-3da3-46d2-adea-104ba9d67e20">
-<img width="1728" alt="image" src="https://github.com/user-attachments/assets/ad25c012-a0e4-4873-b4c9-61558c5cac88">
-<img width="1728" alt="image" src="https://github.com/user-attachments/assets/c4135e7d-a764-47d3-882a-1fb27a164bf8">
-<img width="1716" alt="image" src="https://github.com/user-attachments/assets/065ac5a2-04fe-44ea-aa30-b2666f8e341c">
-<img width="1716" alt="image" src="https://github.com/user-attachments/assets/09b02546-154f-43f3-9155-5a86816e92cc">
-
 # Git-Repositroy
 
 |FE|BE|
@@ -80,6 +54,11 @@
 -   이벤트 진행 페이지에서 퀴즈를 진행한 후 바로 결과를 확인할 수 있습니다.
 -   Redis 를 사용해 높은 성능으로 동시성 제어가 가능합니다.
 
+<img width="1712" alt="image" src="https://github.com/user-attachments/assets/42565089-8d2a-472e-9190-828fd3ba7f0b">
+<img width="1714" alt="image" src="https://github.com/user-attachments/assets/46e3591b-0cf8-4de9-af5b-c36d21cf0b2b">
+<img width="1712" alt="image" src="https://github.com/user-attachments/assets/055d2599-1f8b-4b98-a7e9-48abb92aa141">
+<img width="1715" alt="image" src="https://github.com/user-attachments/assets/2a18e3b4-18e1-4843-97a7-ea18b9048425">
+
 ## 4. 드로잉 이벤트 페이지
 
 -   신차의 주요 특징을 드로잉 게임을 통해 고객에게 알릴 수 있는 페이지입니다.
@@ -87,6 +66,13 @@
 -   소개 페이지에서 점수 랭킹과 자신의 점수를 확인할 수 있습니다.
 -   게임 진행 후 일정한 알고리즘에 따라 점수를 산출해냅니다.
 -   사용자는 게임 진행 후 결과를 확인하고 이를 링크 공유할 수 있습니다.
+
+<img width="1713" alt="image" src="https://github.com/user-attachments/assets/eff1a4b6-0500-45fe-99a1-8a35435fb273">
+<img width="1720" alt="image" src="https://github.com/user-attachments/assets/e8a6550c-3da3-46d2-adea-104ba9d67e20">
+<img width="1728" alt="image" src="https://github.com/user-attachments/assets/ad25c012-a0e4-4873-b4c9-61558c5cac88">
+<img width="1728" alt="image" src="https://github.com/user-attachments/assets/c4135e7d-a764-47d3-882a-1fb27a164bf8">
+<img width="1716" alt="image" src="https://github.com/user-attachments/assets/065ac5a2-04fe-44ea-aa30-b2666f8e341c">
+<img width="1716" alt="image" src="https://github.com/user-attachments/assets/09b02546-154f-43f3-9155-5a86816e92cc">
 
 ## 5. 기대평 페이지
 
