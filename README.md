@@ -1,3 +1,32 @@
+# 김민규 - 개인 파트 정리
+
+- 개발 방향성 확립
+    1. 확장성 : 추가적인 이벤트가 구현될 것을 고려하여 인터페이스 사용 및 ERD 설계
+    2. 당위성 : 외부 툴 사용 시 필요성을 확실히 체크하고 무분별한 사용 및 오버엔지니어링을 방지
+    3. 효율성 : Scale-Up, Scale-Out 이 부적절한 환경이기에 현재 환경에서 가장 효율적인 트래픽 처리 방법 모색
+- ERD 및 아키텍처 도메인 설계
+
+`개인 개발 파트`
+
+- [🔗[Spring Boot] 트래픽 우회, 대기열 서비스 구현](https://happyzodiac.tistory.com/81)
+    - Scale 없이 가장 효율적인 트래픽 처리 방법 모색
+    - 서버 환경에서 동시에 수용 가능한 인원을 기준으로 대기열을 생성해 안정적인 응답 보장 → 단일 서버로 많은 트래픽을 소화
+    - [🔗[Spring Boot] SSE 를 통한 대기열 서비스 개선, 불필요한 폴링 제거](https://happyzodiac.tistory.com/90)
+- [🔗[Spring Boot] 랭킹서비스 Redis vs DB 성능 비교](https://happyzodiac.tistory.com/80)
+    - 부하테스트를 통한 로직(DB index, Redis) 선택
+    - 해당 환경 (인스턴스 및 기획) 에서는 동일한 성능 
+    → 외부 툴 (비용) 이 아닌 DB 선택
+- [🔗Clustered Index 를 활용한 Full Table Scan 없는 N 명 추첨 알고리즘](https://happyzodiac.tistory.com/108)
+    - 불필요한 서버 부하를 방지 N배수 인원 1차 선별 후 가중치 계산 및 당첨자 선별
+    → 해당 로직 메모리 사용량 90% 이상 감소
+- SNS 로그인 구현 with OAuth2
+    - Naver, Hyundai SSO 로그인 구현
+- Admin 페이지 구현
+    - React.js 를 사용한 Admin 페이지 직접 구축
+- CI/CD 파이프라인 구축
+    - [🔗Access Key 사용을 지양하고 IAM Role 을 사용한 CI/CD 구축](https://happyzodiac.tistory.com/79)
+
+
 # :strawberry: Team1-Strawberry-BE
 
 <div align="center">
