@@ -1,3 +1,4 @@
+---
 # 김민규 - 개인 파트 정리
 
 - 개발 방향성 확립
@@ -25,6 +26,8 @@
     - React.js 를 사용한 Admin 페이지 직접 구축
 - CI/CD 파이프라인 구축
     - [🔗Access Key 사용을 지양하고 IAM Role 을 사용한 CI/CD 구축](https://happyzodiac.tistory.com/79)
+ 
+---
 
 
 # :strawberry: Team1-Strawberry-BE
